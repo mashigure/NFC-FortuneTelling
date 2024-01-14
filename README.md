@@ -1,8 +1,8 @@
-# NFC Fortune Telling Machine (デジタルおみくじ)
+# NFC Fortune-Telling Machine (デジタルおみくじ)
 
-### [NFC Fortune Telling Machine](img/NFC-FortuneTelling.jpg)
+### [NFC Fortune Telling-Machine](img/NFC-FortuneTelling.jpg)
 
-![NFC Fortune Telling Machine](img/Thum/NFC-FortuneTelling.jpg)
+![NFC Fortune-Telling Machine](img/Thum/NFC-FortuneTelling.jpg)
 
 ### [Show Result](img/Result.jpg)
 
